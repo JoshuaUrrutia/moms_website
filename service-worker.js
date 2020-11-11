@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/moms_website/precache-manifest.d38cd2a183c6109163d302ec16da32d2.js"
+  "/moms_website/precache-manifest.8b448b6d1d1c8ca36b7ab83a82cc38ad.js"
 );
 
 workbox.clientsClaim();

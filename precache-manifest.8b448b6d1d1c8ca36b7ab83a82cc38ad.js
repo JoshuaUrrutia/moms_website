@@ -41,11 +41,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "a1a74195064c2a215dbf4ec40c4a24b7",
-    "url": "/moms_website/static/media/vlad.a1a74195.jpg"
+    "url": "/moms_website/static/media/vlad-img.a1a74195.jpg"
   },
   {
     "revision": "a1a74195064c2a215dbf4ec40c4a24b7",
-    "url": "/moms_website/static/media/vlad-img.a1a74195.jpg"
+    "url": "/moms_website/static/media/vlad.a1a74195.jpg"
   },
   {
     "revision": "090373ca574bdf420886fc59bad86bb5",
