@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "24ea651e9646081bd52e",
+    "revision": "17995a0dc5e020271e52",
     "url": "/moms_website/static/css/main.8f08483d.chunk.css"
   },
   {
-    "revision": "24ea651e9646081bd52e",
-    "url": "/moms_website/static/js/main.cbb8091d.chunk.js"
+    "revision": "17995a0dc5e020271e52",
+    "url": "/moms_website/static/js/main.dcd8ff81.chunk.js"
   },
   {
     "revision": "39f875ff4ed3c4340186",
@@ -41,23 +41,23 @@ self.__precacheManifest = [
   },
   {
     "revision": "a1a74195064c2a215dbf4ec40c4a24b7",
-    "url": "/moms_website/static/media/vlad-img.a1a74195.jpg"
+    "url": "/moms_website/static/media/vlad.a1a74195.jpg"
   },
   {
     "revision": "a1a74195064c2a215dbf4ec40c4a24b7",
-    "url": "/moms_website/static/media/vlad.a1a74195.jpg"
+    "url": "/moms_website/static/media/vlad-img.a1a74195.jpg"
   },
   {
     "revision": "090373ca574bdf420886fc59bad86bb5",
     "url": "/moms_website/static/media/offerpic.090373ca.jpg"
   },
   {
-    "revision": "4209510857dc47a354e5cc576696aba0",
-    "url": "/moms_website/static/media/contact_us.42095108.jpg"
-  },
-  {
     "revision": "9f65e41d8b9b8177ce30ddaf5906d67c",
     "url": "/moms_website/static/media/offerpic2.9f65e41d.jpeg"
+  },
+  {
+    "revision": "4209510857dc47a354e5cc576696aba0",
+    "url": "/moms_website/static/media/contact_us.42095108.jpg"
   },
   {
     "revision": "53ad6e7a14337af6f93c5a406eb8db2a",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/moms_website/static/media/offer.d5ab2f42.png"
   },
   {
-    "revision": "7c9e64056c844d15457c8559c2b9169e",
+    "revision": "1856542e98b71e61da24fbe0fb5db957",
     "url": "/moms_website/index.html"
   }
 ];
