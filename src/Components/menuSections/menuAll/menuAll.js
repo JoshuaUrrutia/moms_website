@@ -21,12 +21,12 @@ class menuAll extends Component {
         this.setState({showCustomize:false});
     }
     loadStateHandler=(name)=>{
-        
+
         this.setState({load:name,sendData:this.props.data[name]});
-      
+
     }
     render() {
-        
+
         let opn = Object.keys(this.props.data).map(data => <Single  name={data} click={this.loadStateHandler}  key={data} />);
         let customize=(
             <div>
@@ -45,7 +45,7 @@ class menuAll extends Component {
                                     </label>
                                 </Col>
                                 <Col xs="2" xl="3">
-                                    <p>&#x20B9; {20}</p>
+                                    <p>&#x24; {20}</p>
                                 </Col>
                                 <Col xs="8" xl="6">
                                     <select id="topping" name="topping">
@@ -65,7 +65,7 @@ class menuAll extends Component {
                                     </label>
                                 </Col>
                                 <Col xs="2" xl="3">
-                                    <p>&#x20B9; {20}</p>
+                                    <p>&#x24; {20}</p>
                                 </Col>
                                 <Col xs="8" xl="6">
                                     <select id="topping" name="topping">
@@ -78,7 +78,7 @@ class menuAll extends Component {
                         </Container>
                     </form>
                     <Button color="info">View Cart</Button>
-                    <Button color="info">Order Now</Button>    
+                    <Button color="info">Order Now</Button>
                 </div>
             </Modal>
             </div>
@@ -95,7 +95,7 @@ class menuAll extends Component {
             <div>
             {outPut}
             </div>
-           
+
         );
     }
 

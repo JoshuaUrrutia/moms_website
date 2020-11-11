@@ -4,7 +4,7 @@
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('./serve.png');
     background-position: center;
     background-attachment: fixed;
-    height:55vh;
+    height:65vh;
     color:#fff;
     width:100vw;
 }
@@ -34,7 +34,7 @@
 }
 .Order .active{
     color:#ff652f;
-    
+
 }
 .order-sec{
     background:linear-gradient(to right,#14a76c,#0f7a4f);

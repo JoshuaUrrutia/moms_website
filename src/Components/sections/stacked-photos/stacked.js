@@ -19,7 +19,7 @@ const stacked=()=>{
                         </div>
                     </Col>
                     <Col>
-                    <div  className="stacked"> 
+                    <div  className="stacked">
                         <img src={rest} alt="Stacked for restaurant!"/>
                         </div>
                     </Col>

@@ -32,9 +32,7 @@ const footer = () => {
                 </Row>
                 <Row>
                     <Col>
-                        <p className="footer-text">Contact: 9936657710<br />Order: 9670300800, 9670400900, 9670800100 <br />
-                            &copy; COPYRIGHT 2018 reserved by 2 Brother Pizza and Burger<br /><br/>
-                            Made with <img src={heart} alt="Heart" style={{ height: "22px", padding: "0 3px", float: "none" }} /> from <a style={{ display: "inline", float: "none" }} href="https://www.wordpress.com">Aashish Peepra aka Iron Programmer (Love Aashiya)</a></p>
+                        <p className="footer-text">Contact: 9936657710</p>
                     </Col>
                 </Row>
             </Container>

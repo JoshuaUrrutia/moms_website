@@ -9,7 +9,7 @@ const specOffer=(props)=>{
             <p className="offerHead">{props.data.title}</p>
             <p className="offerContent">{props.data.content}</p>
             <p className="offerStarting">starting at </p>
-             <p className="offerDigit">&#x20B9; {props.data.price}</p>
+             <p className="offerDigit">&#x24; {props.data.price}</p>
              <div className="offerButton">
                  <Button url="/offers" content="Visit Offers"/>
              </div>
